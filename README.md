@@ -11,7 +11,7 @@ Set the values for the commands you want to use. Most are just 0 and 1, some oth
 ```
 \Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ```
-### Enter "+exec autoexec" in CS2's Launch Options
+### Enter "+exec autoexec" into the Launch Options for Counter-Strike 2
 ```
 +exec autoexec
 ```
